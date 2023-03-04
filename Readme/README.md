@@ -6,9 +6,8 @@ I wanted to bring to the image of my portfolio something that I am and carry in 
 
 ## Index:
 
-- <a href="Presentation">Presentation📃</a>T
-- <a href="Technologies">Technologies👩‍💻</a>
-- <a href="How to run this project">How to run this project🤔</a>
+- Presentation📃
+- Technologies👩‍💻
 
 ## Presentation 📃
 
