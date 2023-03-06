@@ -1,6 +1,7 @@
 ![portfolio](https://user-images.githubusercontent.com/121465689/222903215-aa8d2c3a-1ac2-4d04-979b-596ec6130777.png)
 
-![portfolio2](https://user-images.githubusercontent.com/121465689/222903244-c2740b8d-ae9f-416c-9788-9255d6df65d5.png)
+![portfolio2](https://user-images.githubusercontent.com/121465689/223080803-8204c209-96d9-4f68-91aa-d9f5b40bdc71.png)
+
 
 
 >Status: ✅ Complete
